@@ -15,6 +15,7 @@
 - 👩‍💻Team Blog：[https://blog.aabyss.cn](https://blog.aabyss.cn)
 - 🍿Team Github：[https://github.com/Aabyss-Team/](https://github.com/Aabyss-Team/)
 - 🧙Team Threat Intelligence Website：[https://threat.aabyss.cn/](https://threat.aabyss.cn)
+- 💾Team Telegram：[https://t.me/AabyssTeam](https://t.me/AabyssTeam)
 
 ### 2# 联系我们
 
