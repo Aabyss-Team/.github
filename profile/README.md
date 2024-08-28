@@ -16,6 +16,7 @@
 - 🍿Team Github：[https://github.com/Aabyss-Team/](https://github.com/Aabyss-Team/)
 - 🧙Team Threat Intelligence Website：[https://threat.aabyss.cn/](https://threat.aabyss.cn)
 - 💾Team Telegram：[https://t.me/AabyssTeam](https://t.me/AabyssTeam)
+- 😈Team Antivirus-Scan：[https://av.aabyss.cn/](https://av.aabyss.cn/)
 
 ### 2# 联系我们
 
